@@ -33,7 +33,7 @@ GET /values/{код котировок валют:USD,RUB...}
 Запуск .jar:
 ---
 ```
-vitalik-0.0.1-SNAPSHOT.jar
+currency-0.0.1-SNAPSHOT.jar
 ```
 Docker:
 ---
