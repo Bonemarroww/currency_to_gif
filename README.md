@@ -24,7 +24,7 @@ Nice to Have
 Endpoints:
 ---
 Получить гифку  
-(пример ответа: https://api.giphy.com/v1/gifs/random?api_key=R4DaQAgkZAVHt8At21gcVjGshLrHeThw&tag=rich):
+(пример ответа: https://api.giphy.com/v1/gifs/random?api_key=5zqyrsI6GbylMhrWRruD0iGrbj0YUPxo&tag=rich):
 ```
 GET /values/{код котировок валют:USD,RUB...}
 ```  
